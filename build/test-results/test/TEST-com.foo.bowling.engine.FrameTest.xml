@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.foo.bowling.engine.FrameTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2022-02-14T00:51:18" hostname="pratyooshs-air.lan" time="0.079">
+  <properties/>
+  <testcase name="testToStringWithSpare()" classname="com.foo.bowling.engine.FrameTest" time="0.001"/>
+  <testcase name="testGetScore()" classname="com.foo.bowling.engine.FrameTest" time="0.001"/>
+  <testcase name="testIsExceptionThrownSpare()" classname="com.foo.bowling.engine.FrameTest" time="0.005"/>
+  <testcase name="testIsResultsFinalizedTrueAfterStrike()" classname="com.foo.bowling.engine.FrameTest" time="0.001"/>
+  <testcase name="testIsResultsFinalizedTrueOpenFrame()" classname="com.foo.bowling.engine.FrameTest" time="0.002"/>
+  <testcase name="testIsSpareFalse()" classname="com.foo.bowling.engine.FrameTest" time="0.002"/>
+  <testcase name="testIsSpareTrue()" classname="com.foo.bowling.engine.FrameTest" time="0.002"/>
+  <testcase name="testToStringWithStrike()" classname="com.foo.bowling.engine.FrameTest" time="0.002"/>
+  <testcase name="testIsStrikeFalse()" classname="com.foo.bowling.engine.FrameTest" time="0.003"/>
+  <testcase name="testToStringWithAllScored()" classname="com.foo.bowling.engine.FrameTest" time="0.002"/>
+  <testcase name="testToStringWithOnlyFirstScore()" classname="com.foo.bowling.engine.FrameTest" time="0.002"/>
+  <testcase name="testAddScoreFirstScore()" classname="com.foo.bowling.engine.FrameTest" time="0.002"/>
+  <testcase name="testIsExceptionThrownOpenFrame()" classname="com.foo.bowling.engine.FrameTest" time="0.004"/>
+  <testcase name="testIsStrikeTrue()" classname="com.foo.bowling.engine.FrameTest" time="0.003"/>
+  <testcase name="testIsResultsFinalizedTrueSpare()" classname="com.foo.bowling.engine.FrameTest" time="0.004"/>
+  <testcase name="testIsExceptionThrownStrike()" classname="com.foo.bowling.engine.FrameTest" time="0.004"/>
+  <testcase name="testIllegalArgumentThrows()" classname="com.foo.bowling.engine.FrameTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
